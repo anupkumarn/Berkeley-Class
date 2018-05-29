@@ -1,2 +1,1 @@
-print ("hello world")
-print ("again")
+print ("hello world 2")
