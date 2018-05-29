@@ -4,5 +4,9 @@ print ("hello world")
 print ("all set?")
 =======
 print ("i am ready")
+<<<<<<< HEAD
+print ("final check")
+>>>>>>> fixbr
+=======
 print ("final check")
 >>>>>>> fixbr
