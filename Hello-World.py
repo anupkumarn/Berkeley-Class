@@ -1,5 +1,3 @@
 print ("hello world 2")
 print ("hello world")
-print ("all set?")
-print ("i am ready")
-print ("final check")
+
