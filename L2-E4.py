@@ -1,4 +1,4 @@
-from numpy import *
+from numpy import arange, sin
 import matplotlib.pyplot as plt
 x=arange(0.,20.,0.3)
 y=sin(x)

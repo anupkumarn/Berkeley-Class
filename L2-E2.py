@@ -1,4 +1,4 @@
-from scipy import *
+from scipy import poly1d
 
 x = poly1d([4,2,6])
 
