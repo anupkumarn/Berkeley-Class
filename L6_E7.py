@@ -16,5 +16,5 @@ plb.pie(b, explode = e, labels = l, colors = c, radius = 0.75,
 
 #we set the aspect ration to 'equal' so the pie is drawn in a circle
 plb.axis('equal')
-plb.xticks(()), plb.yticks(())
+plb.xticks(()); plb.yticks(())
 plb.pause(2)
