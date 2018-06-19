@@ -1,6 +1,6 @@
-import numpy as np 
+from numpy import arange, int32
 
-a=np.arange(1,20,1, dtype=np.int32)
+a=arange(1,20,1, dtype=int32)
 
 print(a)
 
