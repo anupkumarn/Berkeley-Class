@@ -15,6 +15,7 @@ def replace_elem(arr):
 #                print(arr[i])
                 arr[i] = (arr[i] / ( arr.max() / 0.1 ))
 #                print(arr[i])
+    return arr
                 
 C = replace_elem(A)
 #print(C)
